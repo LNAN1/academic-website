@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 廖楠
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liao Nan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nan
+last_name: Liao
 
 # Status emoji
 status:
