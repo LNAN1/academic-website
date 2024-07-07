@@ -1,4 +1,4 @@
----
+![Photo_Liao Nan](https://github.com/LNAN1/academic-website/assets/92087538/71800550-2628-486a-8246-10324982be18)---
 # Display name
 title: 廖楠
 
@@ -19,90 +19,62 @@ highlight_name: true
 # Role/position/tagline
 role: High school geography teacher
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'e0792353@u.nus.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Socio-cultural Geography 
+  - Resilient Cities
+  - Spatial Justice
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Applied GIS
+    institution: National University of Singapore
+    date_start: 2021-08-01
+    date_end: 2022-08-31
     summary: |
       GPA: 3.8/4.0
+      Thesis on _Community resilience evaluation_. Supervised by [Dr Nawaz, M](https://discovery.nus.edu.sg/6392-muhammad-nawaz).
+    button:
+      text: 'Read Thesis'
+      url: 'https://doi.org/10.1016/j.jnlssr.2023.12.005'
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      -  Spatial big data and analytics
+  - area: BSc Human Geography and Urban-Rural Planning
+    institution: South China Normal University
+    date_start: 2017-09-01
+    date_end: 2021-07-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.64/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Practice of GIS application
+      - Practice of Remote sensing application
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Geography teacher at 
+    company_name: SZTU Affiliated High School
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Offered an innovative course, "Beginning GIS", which combines theory and hands-on practice 
+        with SuperMap software to introduce geographic information systems
+      - The average score of the classes taught remained basically first in the sophomore academic 
+        year;
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
