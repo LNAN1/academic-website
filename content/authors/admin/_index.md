@@ -9,9 +9,6 @@ name_pronunciation: Liao Nan
 first_name: Nan
 last_name: Liao
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: High school geography teacher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
